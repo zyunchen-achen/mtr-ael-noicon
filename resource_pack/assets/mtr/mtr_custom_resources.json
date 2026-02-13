@@ -1,0 +1,11 @@
+{
+    "custom_trains": {
+        "a_train_ael_noicon": {
+            "name": "a_train_ael_noicon",
+            "color": "008d8d",
+            "base_train_type": "a_train_ael",
+            "speed_sound_base_id": "a_train_ael",
+            "texture_id": "mtr:custom_directory/a_train_ael_noicon.png"
+        }
+    }
+}
