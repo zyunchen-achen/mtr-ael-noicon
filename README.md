@@ -4,7 +4,7 @@ This is a resource pack designed for the [Minecraft-Transit-Railway](https://git
 
 ## Train Specifications
 
-- **Red waistline livery: Red waistline** (`#008d8d`) **, black windows**
+- **Primary color：`#008d8d`**
 - **Interior: No changes**
 - **Train model support - A-train-AEL standard specification: 10 windows, 2 doors**
 
